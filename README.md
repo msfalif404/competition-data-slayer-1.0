@@ -6,6 +6,6 @@
 - Data Cleaning + CatBoost + Outlier Handling + Soft Voting
 
 ## Interesting Findings:
-- Outlier Needs Analysis
+- Outlier Must Be Analyzed
 - Outlier Handling (Capping, Winsorizing, etc.)
 - Ensemble Model (Stacking, Voting)
